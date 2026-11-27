@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://2fauth.hostinger.com/
+Sitemap: http://screenshots.hostinger.com/
