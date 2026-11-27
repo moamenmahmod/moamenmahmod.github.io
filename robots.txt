@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://169.254.169.254/latest/meta-data/
+Sitemap: http://2fauth.hostinger.com/
