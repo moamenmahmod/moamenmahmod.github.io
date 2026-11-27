@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://metadata.google.internal/computeMetadata/v1/
+Sitemap: http://kubernetes.default.svc/
